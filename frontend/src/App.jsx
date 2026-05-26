@@ -32,7 +32,7 @@ function App() {
       }}
     >
       <h1 style={{ color: '#6366f1' }}>DeskFlow</h1>
-      <h3>BFHL Backend Connected </h3>
+      <h3>BFHL Backend Connected ✅ NEW</h3>
 
       {error && (
         <div
