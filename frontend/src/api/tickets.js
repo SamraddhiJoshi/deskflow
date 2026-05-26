@@ -1,4 +1,4 @@
-const BASE = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+const BASE = 'https://deskflow-backend-omq7.onrender.com';
 
 async function request(path, options = {}) {
   const res = await fetch(`${BASE}${path}`, {
